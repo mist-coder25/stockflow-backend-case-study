@@ -50,6 +50,5 @@ While working on this, I focused on writing clean, maintainable code and making 
 
 ---
 
-## 🚀 Notes
 This solution reflects my thought process and approach to solving backend problems with incomplete requirements.  
 I prioritized clarity, correctness, and practical design over unnecessary complexity.
