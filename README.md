@@ -49,6 +49,6 @@ While working on this, I focused on writing clean, maintainable code and making 
 - Low-stock thresholds are defined at the product level  
 
 ---
-
+## Conclusion
 This solution reflects my thought process and approach to solving backend problems with incomplete requirements.  
 I prioritized clarity, correctness, and practical design over unnecessary complexity.
